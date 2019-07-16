@@ -1,0 +1,87 @@
+.title{
+    border-radius: 6px;
+    color: white;
+    margin-bottom:0;
+    
+
+}
+.titlelink{
+    color:black;
+}
+.subtitle{
+    border-top: solid 0px;
+    border-radius:6px;
+    color:white;
+    margin-top:0;
+}
+.realtitle{
+    background-color: green;
+    border-radius:6px;
+}
+.list{
+    list-style-type: none;
+    padding-left:0px;
+    width:200px;
+    
+}
+.list li a{
+    width:150px;
+}
+.list a:hover{
+    background-color:yellow;
+    border-radius:2px;
+
+}
+.list a:link{
+    color: black;
+    text-decoration:none;
+    font-weight:bold;
+}
+.list a:visited{
+    color:black;
+    text-decoration:none;
+}
+
+.uldiv{
+    text-align:left;
+    width: 150px;
+    height:200px;
+
+    
+
+}
+.list li{
+    width: 150px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-radius: 3px;
+    
+}
+.current{
+    background-color:green;
+}
+.side1{
+    width:300px;
+    
+}
+
+.subside1{
+    background-color:skyblue;
+    margin-bottom:0px;
+    color:white;
+    height:250px;
+}
+.subside2{
+    background-color:skyblue;
+    margin-top:0px;
+    color:white;
+    height:250px;
+}
+.main{
+    width:40%;
+    
+}
+th{
+    background-color: green;
+    color:white;
+}
